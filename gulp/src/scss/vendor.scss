@@ -1,0 +1,6 @@
+// Подключение локальных стилей css из папки vendor
+@import "vendor/normalize";
+
+// подключение стилей из node_modules
+@import "../../node_modules/graph-modal/dist/graph-modal.min";
+@import "../../node_modules/swiper/swiper-bundle.min.css";
